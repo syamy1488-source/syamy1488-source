@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there  I'm Yarra Yamini👋👋
 
-<!--
-**syamy1488-source/syamy1488-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Btech Student 
+🧑‍🎓 Aspiring AI Engineer 
+🐍 Learning Python and SQL 
+💻 Interested in AI,Data Science
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning 
+--Python
+--SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goal🎯🎯
+   To became an AI Engineer and build useful projects
+
+            Thankyou for visiting my Profile ⚡⚡
+
+
+
